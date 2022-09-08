@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
     height: 100vh;
     display: flex;
@@ -12,11 +11,9 @@ body {
     background-color: #f1f5f8;
     font-family: 'Roboto', sans-serif;
 }
-
 .container {
     text-align: center;
 }
-
 .container h2 {
     background-color: #222;
     padding: 20px;
@@ -25,11 +22,9 @@ body {
     font-size: 32px;
     margin-bottom: 24px;
 }
-
 .color {
     color: #49a6e9;
 }
-
 .btn {
     background-color: transparent;
     padding: 8px;
@@ -41,7 +36,6 @@ body {
     outline: none;
     cursor: pointer;
 }
-
 .btn:hover {
     background-color: #222;
     color: #ffffff;
